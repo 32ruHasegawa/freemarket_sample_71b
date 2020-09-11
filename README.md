@@ -1,4 +1,4 @@
-https://gyazo.com/68b4df9b64dc5fbecaa0d4a4f2dde4bd
+[![Image from Gyazo](https://i.gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597.gif)](https://gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597)
 
 # usersテーブル
 
