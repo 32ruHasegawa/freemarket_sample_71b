@@ -1,5 +1,7 @@
-usersテーブル
+https://i.gyazo.com/9a76d80069822856079c27a90a578ac2.gif
 
+
+# usersテーブル
 
 |Column|Type|Options|
 |------|----|-------|
