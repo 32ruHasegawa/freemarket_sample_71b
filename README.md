@@ -1,14 +1,4 @@
-
-[![Image from Gyazo](https://i.gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597.gif)](https://gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597)
-      
-       
-       
-https://gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597
-
-
-https://i.gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597.gif
-
-[![Image from Gyazo](https://i.gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597.gif)](https://gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597)       
+[![Image from Gyazo](https://i.gyazo.com/9959a78dbd85dff964c96235658dab8c.gif)](https://gyazo.com/9959a78dbd85dff964c96235658dab8c)
        
 # usersテーブル
 
@@ -169,6 +159,3 @@ Association
 Association
 
 - belongs_to:user
-
-
-[![Image from Gyazo](https://i.gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597.gif)](https://gyazo.com/4f264c8b2a6fa5bbe9a898fbaf2f9597)
