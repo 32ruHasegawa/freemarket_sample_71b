@@ -14,11 +14,12 @@ Ruby/Ruby on Rails/MySQL/Github/AWS/Visual Studio Code
 人数：5  
 アジャイル型開発（スクラム）  
 Trelloによるタスク管理  
+  
+### イメージ    
+[![Image from Gyazo](https://i.gyazo.com/b2b461f35bb26f7606204fa1be078903.gif)](https://gyazo.com/b2b461f35bb26f7606204fa1be078903)  
 
 ### URL  
 http://18.182.212.148  
-  
-[![Image from Gyazo](https://i.gyazo.com/50b69dacf37f0c5c264059e4da9cc6e1.gif)](https://gyazo.com/50b69dacf37f0c5c264059e4da9cc6e1)  
   
 ### 工夫したポイント  
 既存のフリマアプリのようなデザインにしたこと  
