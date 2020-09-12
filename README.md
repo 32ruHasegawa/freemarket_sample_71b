@@ -22,7 +22,7 @@ http://18.182.212.148
 既存のフリマアプリのようなデザインにしたこと  
   
 ### DB設計  
-# usersテーブル
+#### usersテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -44,7 +44,7 @@ Association
 - has_many:order_statuses
 - has_many:address, dependent: :destroy
 
-# addressesテーブル
+#### addressesテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -61,7 +61,7 @@ Asscsiation
 
 
 
-# favoritesテーブル
+#### favoritesテーブル
 
 
 |Column|Type|Options|
@@ -75,7 +75,7 @@ Association
 - belongs_to:product
 
 
-# commentsテーブル
+#### commentsテーブル
 
 
 |Column|Type|Options|
@@ -90,7 +90,7 @@ Association
 - belongs_to:product
 
 
-# order_statusesテーブル
+#### order_statusesテーブル
 
 
 |Column|Type|Options|
@@ -107,7 +107,7 @@ Association
 - has_many:transection_records
 
 
-# transaction_recordesテーブル
+#### transaction_recordesテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -120,7 +120,7 @@ Association
 
 
 
-# productsテーブル
+#### productsテーブル
 
 
 |Column|Type|Options|
@@ -146,7 +146,7 @@ Association
 
 
 
-# categoriesテーブル
+#### categoriesテーブル
 
 
 |Column|Type|Options|
@@ -160,7 +160,7 @@ Asscsiation
 - has_many:products
 - has_ancestry
 
-# imagesテーブル
+#### imagesテーブル
 
 |Column|Type|Options|
 |------|----|-------|
@@ -171,7 +171,7 @@ Association
 
 - belongs_to:product
 
-# cradsテーブル
+#### cradsテーブル
 |Column|Type|Options|
 |------|----|-------|
 |user_id|Integer|null: false,foreign_key: true|
