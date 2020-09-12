@@ -18,6 +18,8 @@ Trelloによるタスク管理
 ### URL  
 http://18.182.212.148  
   
+[![Image from Gyazo](https://i.gyazo.com/50b69dacf37f0c5c264059e4da9cc6e1.gif)](https://gyazo.com/50b69dacf37f0c5c264059e4da9cc6e1)  
+  
 ### 工夫したポイント  
 既存のフリマアプリのようなデザインにしたこと  
   
