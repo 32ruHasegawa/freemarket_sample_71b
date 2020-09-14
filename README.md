@@ -19,9 +19,6 @@ Trelloによるタスク管理
 ### イメージ    
 <img width="1440" alt="スクリーンショット 2020-09-14 7 30 28" src="https://user-images.githubusercontent.com/62422532/93030261-9f676900-f65c-11ea-8db4-528dec6cab6f.png">
 
-![Alt Text](https://i.gyazo.com/9959a78dbd85dff964c96235658dab8c.gif)]　　
-
-
 ### URL  
 http://18.182.212.148  
 (ユーザー名：admin, パスワード：2222)
